@@ -1,2 +1,0 @@
-# weny
-weny's website
